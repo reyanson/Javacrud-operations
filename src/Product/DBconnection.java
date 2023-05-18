@@ -23,6 +23,9 @@ public class DBconnection {
         
     }
     
+    
+    //function for conecting database
+    
     public static Connection getConnection(){
         return con;
     }
